@@ -1,6 +1,4 @@
 ## Olá! Eu sou o MarkOS 👨‍💻
-
-#
 ![MarkOS Status GitHub](https://github-readme-stats.vercel.app/api?username=dev-markos&show_icons=true&theme=radical)
 
 #
