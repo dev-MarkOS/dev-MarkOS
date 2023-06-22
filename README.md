@@ -8,7 +8,7 @@
  ![Snake animation](https://github.com/dev-markos/dev-markos/blob/output/github-contribution-grid-snake.svg)
 </div>
 <div  align="center"> 
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block">
   <img align="center" alt="HTML" width=30 height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="JAVASCRIPT" width=30 height=50 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
