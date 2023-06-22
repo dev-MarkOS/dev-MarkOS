@@ -28,7 +28,7 @@
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=dev-markos&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELLEN2121&layout=compact&langs_count=7&theme=react" />
 
-  <img align="center" width="148" height="180" src="https://th.bing.com/th/id/OIP.64M3Z-Ye4GhfEF4tGLnJZgHaHa?pid=ImgDet&rs=1">
+  <img align="center" width="148" height="180" src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https:%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2018%2F05%2Frickandmorty-2000.jpg">
 </div>
  <br>
 <div  align="center"> 
