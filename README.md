@@ -28,7 +28,7 @@
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=dev-markos&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELLEN2121&layout=compact&langs_count=7&theme=react" />
 
-  <img align="center" width="148" height="180" src="https://th.bing.com/th/id/R.e61adcd49bd0f9d15f9bea8697535884?rik=BTdKG8305NgqrQ&riu=http%3a%2f%2fvignette4.wikia.nocookie.net%2fssb%2fimages%2f4%2f47%2fMario_(NSMBU).png%2frevision%2flatest%3fcb%3d20130617010229&ehk=%2fUTG7ZKcM%2bYT7QK4oAUrMZIb2uj8y2A0uQlKfc2SsTw%3d&risl=1&pid=ImgRaw&r=0">
+  <img align="center" width="148" height="180" src="https://th.bing.com/th/id/R.2e8129932cbe41b287d940d5c6ee164c?rik=vuS8BUhy2HVMmw&pid=ImgRaw&r=0">
 </div>
  <br>
 <div  align="center"> 
