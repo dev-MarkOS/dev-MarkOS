@@ -28,7 +28,7 @@
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=dev-markos&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELLEN2121&layout=compact&langs_count=7&theme=react" />
 
-  <img align="center" width="148" height="180" src="https://3.bp.blogspot.com/-6TtJm6qlXAY/WtzuRnL0U4I/AAAAAAAAApc/mQu3TE2MHhkDH4WbGq89k7syArSRLgRtwCLcBGAs/s1600/Son%2BGoku%2B16.gif">
+  <img align="center" width="148" height="180" src="https://th.bing.com/th/id/OIP.64M3Z-Ye4GhfEF4tGLnJZgHaHa?pid=ImgDet&rs=1">
 </div>
  <br>
 <div  align="center"> 
