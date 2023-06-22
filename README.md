@@ -26,7 +26,7 @@
 <div>
   <a href="https://github.com/dev-markos">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=dev-markos&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELLEN2121&layout=compact&langs_count=7&theme=react" />
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-markos&layout=compact&langs_count=7&theme=react" />
 
   <img align="center" width="148" height="180" src="https://th.bing.com/th/id/R.d59599278978c2afd4e7529e8381571c?rik=GpSh7qKxaaO1GA&riu=http%3a%2f%2fpm1.narvii.com%2f7119%2fb0abdf491cffde4bdf95850956c1b15a5591a4b5r1-712-707v2_uhq.jpg&ehk=F4J%2bZAzrvoQU9v58KgUP92lXUBFs8mR%2bA4jDhLunfas%3d&risl=&pid=ImgRaw&r=0">
 </div>
@@ -47,9 +47,6 @@
   <a href="https://www.instagram.com/caldasflamejantes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ellen-maria-da-silva-caldas-4824b01a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/dev-MarkOS/dev-MarkOS/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/dev-markos/dev-markos/blob/output/github-contribution-grid-snake.svg)
  
-</div>
- 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=dev-markos&repo=ELLEN2121&theme=react)](https://github.com/dev-markos/dev-markos)
 
