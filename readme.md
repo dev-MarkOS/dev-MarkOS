@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 Atualmente estou trabalhando em um **projeto de frotas**
+ 🔭 Atualmente estou trabalhando como **Assistente de Informática Jr.**
  
- 🌱 Atualmente estou aprendendo **Javascript, bootstrap, css, html**
+ 🌱 Atualmente estou estudando **Javascript, css, html**
 
- ⚡ Curiosidade: **Esse cara é fã da franquia de jogos FNAF, e curte MOBA**
+ ⚡ Curiosidade: **Esse cara é fã de MOBA**
 
  </div>
  
@@ -25,7 +25,7 @@
 <h2 align="center">⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git" />
      <br>
 </div>
 
