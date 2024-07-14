@@ -4,16 +4,16 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=bem+vindo!+👋;+me+chamo+Marcos+Fernando!;" />
 </h1>
 
-<h3 align="center">Cursando Análise e desenvolvimento de sistemas</h3>
+<h3 align="center">Formando em Análise e desenvolvimento de sistemas</h3>
 
 <br/>
 
 <div align="center">
-  🔭 Atualmente estou trabalhando como Assistente de Informática Jr.
+  🔭 Atualmente estou trabalhando como Assistente de Estoque.
   
   🌱 Atualmente estou estudando **Javascript, css, html**
   
-  ⚡ Curiosidade: **Nas horas vagas sou player de MOBA**
+  ⚡ Curiosidade: **Nas horas vagas sou noobplayer**
 </div>
 
 <hr/>
