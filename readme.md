@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  🔭 Atualmente estou trabalhando como Técnico de TI Jr..
+  🔭 Atualmente estou trabalhando como Técnico de TI Jr.
   
   🌱 Atualmente estou estudando **Javascript, css, html**
   
